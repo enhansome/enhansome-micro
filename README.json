@@ -955,7 +955,7 @@
             "last_commit": "2026-06-30T19:11:35Z",
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9894
+            "stars": 9895
           }
         },
         {
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:05:14.320Z",
+    "last_updated": "2026-08-16T07:07:43.273Z",
     "original_repository": "amio/awesome-micro",
     "original_repository_sha": "85bb7408f016ac5030c53949708f516d1b948ac7",
     "enhanced_repository": "enhansome/enhansome-micro",
