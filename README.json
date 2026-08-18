@@ -419,7 +419,7 @@
             "archived": false,
             "language": "JavaScript",
             "last_commit": "2020-09-07T16:47:31Z",
-            "owner": "brandon93s",
+            "owner": "bndnsmth",
             "repo": "micro-superstruct",
             "stars": 16
           }
@@ -955,7 +955,7 @@
             "last_commit": "2026-06-30T19:11:35Z",
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9896
+            "stars": 9897
           }
         },
         {
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:29:56.301Z",
+    "last_updated": "2026-08-18T07:12:53.498Z",
     "original_repository": "amio/awesome-micro",
     "original_repository_sha": "85bb7408f016ac5030c53949708f516d1b948ac7",
     "enhanced_repository": "enhansome/enhansome-micro",
