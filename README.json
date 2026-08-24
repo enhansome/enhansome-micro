@@ -178,6 +178,95 @@
         {
           "children": [
             {
+              "node_type": "group",
+              "title": "microauth",
+              "description": "Collection of authentication modules for ▲zeit's micro.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "microauth-twitter",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88049923,
+                    "language": "JavaScript",
+                    "last_commit": "2020-06-03T09:22:22Z",
+                    "owner": "microauth",
+                    "repo": "microauth-twitter",
+                    "stars": 39
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "microauth-facebook",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88264173,
+                    "language": "JavaScript",
+                    "last_commit": "2026-01-27T12:48:47Z",
+                    "owner": "microauth",
+                    "repo": "microauth-facebook",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "microauth-google",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 107787501,
+                    "language": "JavaScript",
+                    "last_commit": "2020-02-05T09:35:22Z",
+                    "owner": "microauth",
+                    "repo": "microauth-google",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "microauth-github",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88136896,
+                    "language": "JavaScript",
+                    "last_commit": "2026-01-22T08:48:59Z",
+                    "owner": "microauth",
+                    "repo": "microauth-github",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "microauth-slack",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88271907,
+                    "language": "JavaScript",
+                    "last_commit": "2026-01-24T06:08:41Z",
+                    "owner": "microauth",
+                    "repo": "microauth-slack",
+                    "stars": 8
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Authentication"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "micro-analytics",
               "description": "Public analytics as a Node.js microservice, no sysadmin experience required.",
@@ -1138,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:34:44.757Z",
+    "last_updated": "2026-08-24T14:18:39.327Z",
     "original_repository": "amio/awesome-micro",
     "original_repository_id": 69528296,
     "original_repository_sha": "85bb7408f016ac5030c53949708f516d1b948ac7",

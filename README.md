@@ -1,6 +1,6 @@
 # Awesome Micro with stars
 
-<a href="https://github.com/vercel/micro"><img align="right" src="https://camo.githubusercontent.com/67335088cb7b156fb779f6d60635e70780efe714/68747470733a2f2f636c6475702e636f6d2f4a446d6d4858337568462e737667" /></a>
+[<img align="right" src="https://camo.githubusercontent.com/67335088cb7b156fb779f6d60635e70780efe714/68747470733a2f2f636c6475702e636f6d2f4a446d6d4858337568462e737667" />](https://github.com/vercel/micro) ⭐ 10,623 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-21
 
 > A collection of awesome things regarding Vercel's [Micro](https://github.com/zeit/micro) ⭐ 10,623 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-21 — Asynchronous HTTP microservices.
 
@@ -43,9 +43,9 @@
 * [microauth](https://github.com/microauth) - Collection of authentication modules for ▲zeit's micro.
   * [microauth-twitter](https://github.com/microauth/microauth-twitter) ⭐ 39 | 🐛 3 | 🌐 JavaScript | 📅 2020-06-03
   * [microauth-facebook](https://github.com/microauth/microauth-facebook) ⭐ 16 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-27
+  * [microauth-google](https://github.com/microauth/microauth-google) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2020-02-05
   * [microauth-github](https://github.com/microauth/microauth-github) ⭐ 8 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-22
   * [microauth-slack](https://github.com/microauth/microauth-slack) ⭐ 8 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-24
-  * [microauth-google](https://github.com/microauth/microauth-google) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2020-02-05
 
 ### Analytics
 
@@ -126,7 +126,7 @@
 * [micro-graphql](https://github.com/hyperfuse/micro-graphql) ⭐ 146 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-20 - GraphQL Microservice
 * [generator-micro-service](https://github.com/vadimdemedes/generator-micro-service) ⭐ 144 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-07 - Yeoman generator to kick-start your microservice with `micro` and `ava`
 * [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) ⭐ 97 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-25 - Starter kit with built in authentication using bcrypt and jsonwebtokens
-* [nuxt-micro](https://github.com/nuxt-community/micro-template) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2020-12-11 - A [Vue-CLI](https://github.com/vuejs/vue-cli) ⭐ 29,541 | 🐛 1,070 | 🌐 JavaScript | 📅 2025-08-21 template to generate a [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,787 | 🐛 543 | 🌐 TypeScript | 📅 2026-08-24 project with micro as a backend
+* [nuxt-micro](https://github.com/nuxt-community/micro-template) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2020-12-11 - A [Vue-CLI](https://github.com/vuejs/vue-cli) ⭐ 29,541 | 🐛 1,070 | 🌐 JavaScript | 📅 2025-08-21 template to generate a [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,789 | 🐛 542 | 🌐 TypeScript | 📅 2026-08-24 project with micro as a backend
 * [create-micro](https://github.com/romuloalves/create-micro) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-27 - a generator for `micro` projects
 
 ## Articles & FAQ
