@@ -382,7 +382,7 @@
                 "last_commit": "2018-10-04T16:45:56Z",
                 "owner": "dotcypress",
                 "repo": "micro-ratelimit",
-                "stars": 74
+                "stars": 73
               }
             },
             {
@@ -1084,7 +1084,7 @@
             "last_commit": "2026-06-30T19:11:35Z",
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9896
+            "stars": 9897
           }
         },
         {
@@ -1227,9 +1227,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:23:09.990Z",
-    "original_repository": "amio/awesome-micro",
-    "original_repository_id": 69528296,
+    "last_updated": "2026-08-27T11:50:45.877Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 69528296,
+      "language": null,
+      "last_commit": "2022-03-04T05:53:31Z",
+      "owner": "amio",
+      "repo": "awesome-micro",
+      "stars": 1069
+    },
     "original_repository_sha": "85bb7408f016ac5030c53949708f516d1b948ac7",
     "enhanced_repository": "enhansome/enhansome-micro",
     "enhanced_repository_description": null,
