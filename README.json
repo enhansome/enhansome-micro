@@ -18,7 +18,8 @@
                 "owner": "pedronauck",
                 "repo": "micro-router",
                 "stars": 613
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "pillarjs",
                 "repo": "router",
                 "stars": 448
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "jesseditson",
                 "repo": "fs-router",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "amio",
                 "repo": "micro-fork",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "dotcypress",
                 "repo": "micro-route",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "nickduncan7",
                 "repo": "micro-http-router",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "Masquerade-Circus",
                 "repo": "micro-ex-router",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "jamo",
                 "repo": "micro-method-router",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "Synvox",
                 "repo": "router",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "zhaoyao91",
                 "repo": "micro-action",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "Bessonov",
                 "repo": "node-http-router",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             }
           ],
           "description": null,
@@ -195,7 +206,8 @@
                     "owner": "microauth",
                     "repo": "microauth-twitter",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:52:34.897Z"
                 },
                 {
                   "node_type": "item",
@@ -210,7 +222,8 @@
                     "owner": "microauth",
                     "repo": "microauth-facebook",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:52:34.897Z"
                 },
                 {
                   "node_type": "item",
@@ -225,7 +238,8 @@
                     "owner": "microauth",
                     "repo": "microauth-google",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:52:34.897Z"
                 },
                 {
                   "node_type": "item",
@@ -240,7 +254,8 @@
                     "owner": "microauth",
                     "repo": "microauth-github",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:52:34.897Z"
                 },
                 {
                   "node_type": "item",
@@ -255,7 +270,8 @@
                     "owner": "microauth",
                     "repo": "microauth-slack",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:52:34.897Z"
                 }
               ]
             }
@@ -279,7 +295,8 @@
                 "owner": "micro-analytics",
                 "repo": "micro-analytics-cli",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "dotcypress",
                 "repo": "micro-stats",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             }
           ],
           "description": null,
@@ -316,7 +334,8 @@
                 "owner": "captainsafia",
                 "repo": "micro-sentry",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "dariye",
                 "repo": "micro-notify",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "NickCis",
                 "repo": "micro-morgan",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             }
           ],
           "description": null,
@@ -368,7 +389,8 @@
                 "owner": "possibilities",
                 "repo": "micro-cors",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -383,7 +405,8 @@
                 "owner": "dotcypress",
                 "repo": "micro-ratelimit",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -398,7 +421,8 @@
                 "owner": "mhamann",
                 "repo": "micro-mw",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "igat64",
                 "repo": "micro-ajv",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "fourcube",
                 "repo": "micro-csrf",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -443,7 +469,8 @@
                 "owner": "littledumb",
                 "repo": "micro-logzio",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -458,7 +485,8 @@
                 "owner": "GaiAma",
                 "repo": "micro-nosniff",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             }
           ],
           "description": null,
@@ -480,7 +508,8 @@
                 "owner": "kandros",
                 "repo": "micro-jwt-auth",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -495,7 +524,8 @@
                 "owner": "stearm",
                 "repo": "micro-joi",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -510,7 +540,8 @@
                 "owner": "onbjerg",
                 "repo": "micro-boom",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -525,7 +556,8 @@
                 "owner": "julianduque",
                 "repo": "micro-upload",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -540,7 +572,8 @@
                 "owner": "bndnsmth",
                 "repo": "micro-superstruct",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -555,7 +588,8 @@
                 "owner": "dariye",
                 "repo": "micro-notify",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             }
           ],
           "description": null,
@@ -577,7 +611,8 @@
                 "owner": "dimapaloskin",
                 "repo": "micro-chain",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -592,7 +627,8 @@
                 "owner": "timReynolds",
                 "repo": "micro-redirect",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -607,7 +643,8 @@
                 "owner": "tafarij",
                 "repo": "micro-correlation-id",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -622,7 +659,8 @@
                 "owner": "romuloalves",
                 "repo": "micro-get",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -637,7 +675,8 @@
                 "owner": "romuloalves",
                 "repo": "micro-post",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -652,7 +691,8 @@
                 "owner": "cprecioso",
                 "repo": "micro-protocol",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -667,7 +707,8 @@
                 "owner": "cprecioso",
                 "repo": "micro-host",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -682,7 +723,8 @@
                 "owner": "cprecioso",
                 "repo": "micro-hostname",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             }
           ],
           "description": null,
@@ -704,7 +746,8 @@
                 "owner": "microauth",
                 "repo": "micro-compose",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             }
           ],
           "description": null,
@@ -726,7 +769,8 @@
                 "owner": "vercel",
                 "repo": "serve-handler",
                 "stars": 618
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -741,7 +785,8 @@
                 "owner": "joakimbeng",
                 "repo": "micro-compress",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -756,7 +801,8 @@
                 "owner": "fmiras",
                 "repo": "micro-cacheable",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -771,7 +817,8 @@
                 "owner": "nblackburn",
                 "repo": "micro-match",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -786,7 +833,8 @@
                 "owner": "dimapaloskin",
                 "repo": "micro-chain",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -801,7 +849,8 @@
                 "owner": "fmiras",
                 "repo": "micro-health",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -816,7 +865,8 @@
                 "owner": "billymoon",
                 "repo": "micro-cookie-session",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -831,7 +881,8 @@
                 "owner": "NickCis",
                 "repo": "micronize",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -846,7 +897,8 @@
                 "owner": "goto-bus-stop",
                 "repo": "micro-helmet",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             },
             {
               "node_type": "item",
@@ -861,7 +913,8 @@
                 "owner": "zakjholt",
                 "repo": "micro-cookie",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:52:34.897Z"
             }
           ],
           "description": null,
@@ -887,7 +940,8 @@
             "owner": "vercel",
             "repo": "micro-dev",
             "stars": 711
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -902,7 +956,8 @@
             "owner": "onbjerg",
             "repo": "micro-visualize",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -917,7 +972,8 @@
             "owner": "dimapaloskin",
             "repo": "dev-gateway",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -932,7 +988,8 @@
             "owner": "tylersnyder",
             "repo": "serve-micro-cluster",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         }
       ],
       "title": "Development Tools"
@@ -953,7 +1010,8 @@
             "owner": "plus1tv",
             "repo": "micro-graphql",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -968,7 +1026,8 @@
             "owner": "vadimdemedes",
             "repo": "generator-micro-service",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -983,7 +1042,8 @@
             "owner": "littleStudent",
             "repo": "micro-authentication-starter",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -998,7 +1058,8 @@
             "owner": "nuxt-community",
             "repo": "micro-template",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -1013,7 +1074,8 @@
             "owner": "romuloalves",
             "repo": "create-micro",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         }
       ],
       "title": "Boilerplates"
@@ -1034,7 +1096,8 @@
             "owner": "vercel",
             "repo": "micro",
             "stars": 10625
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -1049,7 +1112,8 @@
             "owner": "vercel",
             "repo": "micro",
             "stars": 10625
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -1064,7 +1128,8 @@
             "owner": "vercel",
             "repo": "micro",
             "stars": 10625
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         }
       ],
       "title": "Articles & FAQ"
@@ -1084,8 +1149,9 @@
             "last_commit": "2026-06-30T19:11:35Z",
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9897
-          }
+            "stars": 9896
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -1100,7 +1166,8 @@
             "owner": "mxstbr",
             "repo": "micro-github",
             "stars": 721
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -1115,7 +1182,8 @@
             "owner": "sindresorhus",
             "repo": "gh-latest-repos",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -1130,7 +1198,8 @@
             "owner": "meeshkan",
             "repo": "micro-jaymock",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -1145,7 +1214,8 @@
             "owner": "imagemin",
             "repo": "imagemin-micro",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -1160,7 +1230,8 @@
             "owner": "andreasmcdermott",
             "repo": "micro-gallery",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -1175,7 +1246,8 @@
             "owner": "amio",
             "repo": "font-mess",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -1190,7 +1262,8 @@
             "owner": "amio",
             "repo": "marked",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -1205,7 +1278,8 @@
             "owner": "adileo",
             "repo": "MicroFrontier",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         },
         {
           "node_type": "item",
@@ -1220,14 +1294,15 @@
             "owner": "HugoDF",
             "repo": "micro-analytics-events",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T18:52:34.897Z"
         }
       ],
       "title": "Built with Micro"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:43:16.468Z",
+    "last_updated": "2026-08-28T18:52:34.897Z",
     "original_repository_info": {
       "archived": false,
       "id": 69528296,
