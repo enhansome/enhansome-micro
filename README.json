@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":station:  A tiny and functional router for Zeit's Micro",
+                "homepage": "https://www.npmjs.com/microrouter",
                 "id": 83078565,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-07T09:40:24Z",
+                "open_issues": 21,
                 "owner": "pedronauck",
                 "repo": "micro-router",
-                "stars": 613
+                "stars": 613,
+                "topics": [
+                  "async",
+                  "await",
+                  "micro",
+                  "microservice",
+                  "nodejs",
+                  "router",
+                  "routing",
+                  "zeit"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -28,12 +42,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple middleware-style router",
+                "homepage": null,
                 "id": 23059630,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-02T09:21:56Z",
+                "open_issues": 51,
                 "owner": "pillarjs",
                 "repo": "router",
-                "stars": 448
+                "stars": 448,
+                "topics": [
+                  "http",
+                  "javascript",
+                  "nodejs",
+                  "router"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -44,12 +68,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use the FS as your micro router",
+                "homepage": null,
                 "id": 76198991,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-12-09T08:13:54Z",
+                "open_issues": 12,
                 "owner": "jesseditson",
                 "repo": "fs-router",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -60,12 +89,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and functional router",
+                "homepage": null,
                 "id": 135128916,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2023-02-21T21:57:14Z",
+                "open_issues": 6,
                 "owner": "amio",
                 "repo": "micro-fork",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "micro",
+                  "router",
+                  "zeit"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -76,12 +114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny and super fast http routing helper",
+                "homepage": null,
                 "id": 75455437,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-11-16T04:13:39Z",
+                "open_issues": 0,
                 "owner": "dotcypress",
                 "repo": "micro-route",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -92,12 +135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple, Express-like router for micro",
+                "homepage": null,
                 "id": 102155895,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-05-21T14:01:36Z",
+                "open_issues": 0,
                 "owner": "nickduncan7",
                 "repo": "micro-http-router",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -108,12 +156,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Express like router for micro.",
+                "homepage": null,
                 "id": 96332105,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-06T01:56:46Z",
+                "open_issues": 11,
                 "owner": "Masquerade-Circus",
                 "repo": "micro-ex-router",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "eslint",
+                  "express",
+                  "micro",
+                  "router"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -124,12 +182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 76960807,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-07-10T09:06:05Z",
+                "open_issues": 2,
                 "owner": "jamo",
                 "repo": "micro-method-router",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -140,12 +203,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A tiny routing library to complement micro inspired by the good and bad parts of express.js.",
+                "homepage": null,
                 "id": 182345996,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-28T15:21:38Z",
+                "open_issues": 19,
                 "owner": "Synvox",
                 "repo": "router",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -156,12 +224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Help define actions for micro.",
+                "homepage": null,
                 "id": 97094302,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-07-18T06:05:00Z",
+                "open_issues": 0,
                 "owner": "zhaoyao91",
                 "repo": "micro-action",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -172,12 +245,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fantastic type-safe router for Node.js, micro and other servers",
+                "homepage": null,
                 "id": 216270504,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-14T23:28:43Z",
+                "open_issues": 0,
                 "owner": "Bessonov",
                 "repo": "node-http-router",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "api",
+                  "http",
+                  "match",
+                  "micro",
+                  "microservices",
+                  "nanoservices",
+                  "nodejs",
+                  "rest",
+                  "route",
+                  "router",
+                  "routing",
+                  "server",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             }
@@ -200,12 +292,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Twitter oauth for micro",
+                    "homepage": null,
                     "id": 88049923,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-06-03T09:22:22Z",
+                    "open_issues": 3,
                     "owner": "microauth",
                     "repo": "microauth-twitter",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": [
+                      "auth",
+                      "authentication",
+                      "javascript",
+                      "js",
+                      "micro",
+                      "microauth",
+                      "microservice",
+                      "nodejs",
+                      "twitter"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:52:34.897Z"
                 },
@@ -216,12 +323,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Facebook oauth for micro",
+                    "homepage": null,
                     "id": 88264173,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-27T12:48:47Z",
+                    "open_issues": 14,
                     "owner": "microauth",
                     "repo": "microauth-facebook",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "auth",
+                      "authentication",
+                      "facebook",
+                      "javascript",
+                      "js",
+                      "micro",
+                      "microauth",
+                      "microservice",
+                      "nodejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:52:34.897Z"
                 },
@@ -232,12 +354,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Google oauth for micro",
+                    "homepage": null,
                     "id": 107787501,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-02-05T09:35:22Z",
+                    "open_issues": 1,
                     "owner": "microauth",
                     "repo": "microauth-google",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:52:34.897Z"
                 },
@@ -248,12 +375,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Github oauth for micro",
+                    "homepage": null,
                     "id": 88136896,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-22T08:48:59Z",
+                    "open_issues": 16,
                     "owner": "microauth",
                     "repo": "microauth-github",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "auth",
+                      "authentication",
+                      "github",
+                      "javascript",
+                      "js",
+                      "micro",
+                      "microauth",
+                      "microservice",
+                      "nodejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:52:34.897Z"
                 },
@@ -264,12 +406,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Slack oauth for micro",
+                    "homepage": null,
                     "id": 88271907,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-24T06:08:41Z",
+                    "open_issues": 14,
                     "owner": "microauth",
                     "repo": "microauth-slack",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "auth",
+                      "authentication",
+                      "javascript",
+                      "js",
+                      "micro",
+                      "microauth",
+                      "microservice",
+                      "nodejs",
+                      "slack"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:52:34.897Z"
                 }
@@ -289,12 +446,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public analytics as a Node.js microservice. No sysadmin experience required! 📈",
+                "homepage": null,
                 "id": 78277006,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-07-16T09:17:56Z",
+                "open_issues": 17,
                 "owner": "micro-analytics",
                 "repo": "micro-analytics-cli",
-                "stars": 733
+                "stars": 733,
+                "topics": [
+                  "analytics",
+                  "analytics-server",
+                  "micro",
+                  "microservice",
+                  "node-microservice",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -305,12 +474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📊 Tiny statsd helper",
+                "homepage": null,
                 "id": 75767984,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-06-11T05:07:00Z",
+                "open_issues": 0,
                 "owner": "dotcypress",
                 "repo": "micro-stats",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             }
@@ -328,12 +502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send micro errors to the Sentry service",
+                "homepage": null,
                 "id": 101437765,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-06T00:37:34Z",
+                "open_issues": 10,
                 "owner": "captainsafia",
                 "repo": "micro-sentry",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -344,12 +523,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send errors to Bugsnag from a 'micro' service",
+                "homepage": null,
                 "id": 148807877,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-08-06T19:29:10Z",
+                "open_issues": 0,
                 "owner": "dariye",
                 "repo": "micro-notify",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "bugsnag",
+                  "error-monitoring",
+                  "micro"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -360,12 +548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Morgan http request logger middleware for zeit's micro framework.",
+                "homepage": null,
                 "id": 176853772,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-03-21T02:37:02Z",
+                "open_issues": 0,
                 "owner": "NickCis",
                 "repo": "micro-morgan",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             }
@@ -383,12 +576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple CORS middleware for Zeit's Micro",
+                "homepage": null,
                 "id": 78932504,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-07T08:59:12Z",
+                "open_issues": 13,
                 "owner": "possibilities",
                 "repo": "micro-cors",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -399,12 +597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rate-limiting middleware for micro",
+                "homepage": null,
                 "id": 86734839,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-10-04T16:45:56Z",
+                "open_issues": 1,
                 "owner": "dotcypress",
                 "repo": "micro-ratelimit",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -415,12 +618,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a simple helper to add middleware to your zeit/micro or Now 2.0 functions",
+                "homepage": null,
                 "id": 163798310,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-03T15:48:39Z",
+                "open_issues": 9,
                 "owner": "mhamann",
                 "repo": "micro-mw",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "micro",
+                  "nodejs",
+                  "zeit-now"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -431,12 +643,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Ajv (Another JSON Schema Validator) middleware for Micro",
+                "homepage": null,
                 "id": 185217418,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-03T21:09:33Z",
+                "open_issues": 12,
                 "owner": "igat64",
                 "repo": "micro-ajv",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "ajv",
+                  "json-schema",
+                  "json-schema-validator",
+                  "jsonschema",
+                  "jsonschema-validator",
+                  "micro",
+                  "middleware",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -447,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anti-CSRF middleware for micro",
+                "homepage": null,
                 "id": 246855767,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-05T09:50:39Z",
+                "open_issues": 8,
                 "owner": "fourcube",
                 "repo": "micro-csrf",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -463,12 +694,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A middleware for micro framework that logs requests and responses using logz.io service.",
+                "homepage": null,
                 "id": 154980362,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-11-19T09:50:29Z",
+                "open_issues": 0,
                 "owner": "littledumb",
                 "repo": "micro-logzio",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -479,12 +715,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prevent mime type sniffing for ▲ Zeit's Micro",
+                "homepage": null,
                 "id": 130935290,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-03T22:59:49Z",
+                "open_issues": 4,
                 "owner": "GaiAma",
                 "repo": "micro-nosniff",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "headers",
+                  "micro",
+                  "micro-plugin",
+                  "middleware",
+                  "middlewares",
+                  "rest",
+                  "zeit",
+                  "zeit-now"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             }
@@ -502,12 +752,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "jwt authorization wrapper for https://github.com/zeit/micro",
+                "homepage": null,
                 "id": 82102674,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-01-15T01:25:20Z",
+                "open_issues": 11,
                 "owner": "kandros",
                 "repo": "micro-jwt-auth",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "authorization",
+                  "jwt",
+                  "micro",
+                  "microservice"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -518,12 +778,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Joi wrapper for zeit/micro",
+                "homepage": null,
                 "id": 88901291,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-03T18:27:59Z",
+                "open_issues": 10,
                 "owner": "stearm",
                 "repo": "micro-joi",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "joi",
+                  "micro",
+                  "microservice",
+                  "schema",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -534,12 +805,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Wraps errors in micro with Boom",
+                "homepage": null,
                 "id": 79716221,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-09-04T03:20:37Z",
+                "open_issues": 4,
                 "owner": "onbjerg",
                 "repo": "micro-boom",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "boom",
+                  "json-api",
+                  "micro",
+                  "standards",
+                  "zeit"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -550,12 +832,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An express-fileupload wrapper for micro",
+                "homepage": null,
                 "id": 88661701,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-08-05T15:15:08Z",
+                "open_issues": 3,
                 "owner": "julianduque",
                 "repo": "micro-upload",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -566,12 +853,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Superstruct wrapper for Micro to validate your request body and query parameters",
+                "homepage": null,
                 "id": 120106318,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-09-07T16:47:31Z",
+                "open_issues": 0,
                 "owner": "bndnsmth",
                 "repo": "micro-superstruct",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "micro",
+                  "superstruct",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -582,12 +878,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send errors to Bugsnag from a 'micro' service",
+                "homepage": null,
                 "id": 148807877,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-08-06T19:29:10Z",
+                "open_issues": 0,
                 "owner": "dariye",
                 "repo": "micro-notify",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "bugsnag",
+                  "error-monitoring",
+                  "micro"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             }
@@ -605,12 +910,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤝  Helps to build chains from your micro services.",
+                "homepage": null,
                 "id": 84637349,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-06-03T09:18:47Z",
+                "open_issues": 10,
                 "owner": "dimapaloskin",
                 "repo": "micro-chain",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "async",
+                  "await",
+                  "javascript",
+                  "micro",
+                  "microservice",
+                  "microservices",
+                  "node"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -621,12 +939,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A redirect function for Zeit's micro",
+                "homepage": null,
                 "id": 84666805,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-09T23:00:40Z",
+                "open_issues": 12,
                 "owner": "timReynolds",
                 "repo": "micro-redirect",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "api",
+                  "javascript",
+                  "micro",
+                  "redirect"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -637,12 +965,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Correlate http requests across microservices built with zeit/micro",
+                "homepage": null,
                 "id": 123468551,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-17T22:07:37Z",
+                "open_issues": 1,
                 "owner": "tafarij",
                 "repo": "micro-correlation-id",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -653,12 +986,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package to filter GET HTTP request with zeit/micro",
+                "homepage": null,
                 "id": 792696186,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-27T10:02:23Z",
+                "open_issues": 0,
                 "owner": "romuloalves",
                 "repo": "micro-get",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -669,12 +1007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package to only accept POST request for microservices built with zeit/micro",
+                "homepage": null,
                 "id": 792696477,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-27T10:03:17Z",
+                "open_issues": 0,
                 "owner": "romuloalves",
                 "repo": "micro-post",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -685,12 +1028,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Micro middleware to get the protocol of the request",
+                "homepage": null,
                 "id": 222305884,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-05T01:03:47Z",
+                "open_issues": 9,
                 "owner": "cprecioso",
                 "repo": "micro-protocol",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -701,12 +1049,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Micro middleware to get the host of the request",
+                "homepage": null,
                 "id": 222299012,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-05T01:03:37Z",
+                "open_issues": 9,
                 "owner": "cprecioso",
                 "repo": "micro-host",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -717,12 +1070,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Micro middleware to get the hostname of the request",
+                "homepage": null,
                 "id": 222186784,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-05T01:01:10Z",
+                "open_issues": 10,
                 "owner": "cprecioso",
                 "repo": "micro-hostname",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             }
@@ -740,12 +1098,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Higher-order \"compose\" function",
+                "homepage": null,
                 "id": 88038955,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-03T09:19:08Z",
+                "open_issues": 3,
                 "owner": "microauth",
                 "repo": "micro-compose",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "higher-order"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             }
@@ -763,12 +1128,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The foundation of `serve`",
+                "homepage": "https://npmjs.com/serve-handler",
                 "id": 133409152,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-04T21:25:46Z",
+                "open_issues": 86,
                 "owner": "vercel",
                 "repo": "serve-handler",
-                "stars": 618
+                "stars": 618,
+                "topics": [
+                  "handler",
+                  "middleware",
+                  "server",
+                  "single-page-applications",
+                  "static"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -779,12 +1155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compression for HTTP microservices built with Micro",
+                "homepage": null,
                 "id": 68909578,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-01-27T20:48:56Z",
+                "open_issues": 1,
                 "owner": "joakimbeng",
                 "repo": "micro-compress",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -795,12 +1176,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A micro utility for data caching",
+                "homepage": null,
                 "id": 125328393,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-03-24T18:59:39Z",
+                "open_issues": 5,
                 "owner": "fmiras",
                 "repo": "micro-cacheable",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "cache",
+                  "cache-storage",
+                  "fetch",
+                  "micro",
+                  "micro-cache",
+                  "microservice",
+                  "microservices"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -811,12 +1205,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A micro library for matching urls.",
+                "homepage": null,
                 "id": 66224513,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-09T04:51:21Z",
+                "open_issues": 1,
                 "owner": "nblackburn",
                 "repo": "micro-match",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "micro",
+                  "url-matching"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -827,12 +1229,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤝  Helps to build chains from your micro services.",
+                "homepage": null,
                 "id": 84637349,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-06-03T09:18:47Z",
+                "open_issues": 10,
                 "owner": "dimapaloskin",
                 "repo": "micro-chain",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "async",
+                  "await",
+                  "javascript",
+                  "micro",
+                  "microservice",
+                  "microservices",
+                  "node"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -843,12 +1258,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extension of micro with a Health Check API",
+                "homepage": null,
                 "id": 125881853,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-03-24T18:50:35Z",
+                "open_issues": 1,
                 "owner": "fmiras",
                 "repo": "micro-health",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "health",
+                  "health-check",
+                  "micro",
+                  "microservices"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -859,12 +1284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple cookie-based session storage for micro.",
+                "homepage": null,
                 "id": 88427277,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-03-09T01:15:46Z",
+                "open_issues": 0,
                 "owner": "billymoon",
                 "repo": "micro-cookie-session",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -875,12 +1305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple way of enhacing a function with zeit's micro framework.",
+                "homepage": null,
                 "id": 175920013,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-03-21T02:14:00Z",
+                "open_issues": 0,
                 "owner": "NickCis",
                 "repo": "micronize",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -891,12 +1326,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "security headers for micro",
+                "homepage": null,
                 "id": 192063556,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-22T04:04:24Z",
+                "open_issues": 3,
                 "owner": "goto-bus-stop",
                 "repo": "micro-helmet",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "csp",
+                  "headers",
+                  "helmet",
+                  "hsts",
+                  "http",
+                  "http-headers",
+                  "micro",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             },
@@ -907,12 +1356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package to parse out request cookies",
+                "homepage": null,
                 "id": 95033277,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-04-08T20:33:24Z",
+                "open_issues": 1,
                 "owner": "zakjholt",
                 "repo": "micro-cookie",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
             }
@@ -934,12 +1388,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The development environment for `micro`",
+            "homepage": null,
             "id": 97933800,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-08T20:31:08Z",
+            "open_issues": 29,
             "owner": "vercel",
             "repo": "micro-dev",
-            "stars": 711
+            "stars": 711,
+            "topics": [
+              "cli",
+              "command-line",
+              "development",
+              "interface",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -950,12 +1415,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Visualizes requests and responses for services written with micro",
+            "homepage": null,
             "id": 79712430,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-17T01:14:58Z",
+            "open_issues": 1,
             "owner": "onbjerg",
             "repo": "micro-visualize",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "developer-tools",
+              "micro",
+              "visualizes-requests",
+              "zeit"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -966,12 +1441,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local development cluster with \"now\" path aliases syntax support. Allows running multiple microservices as one solid server.",
+            "homepage": null,
             "id": 87322921,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-06-03T09:20:10Z",
+            "open_issues": 14,
             "owner": "dimapaloskin",
             "repo": "dev-gateway",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "cluster",
+              "gateway",
+              "http",
+              "javascript",
+              "js",
+              "micro",
+              "microservices",
+              "now",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -982,12 +1472,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It's like Path Alias on now, but for local development.",
+            "homepage": null,
             "id": 86182955,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-13T14:23:00Z",
+            "open_issues": 0,
             "owner": "tylersnyder",
             "repo": "serve-micro-cluster",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "cluster",
+              "micro",
+              "microservices",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         }
@@ -1004,12 +1504,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GraphQL Microservice",
+            "homepage": null,
             "id": 79171736,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-20T16:16:42Z",
+            "open_issues": 0,
             "owner": "plus1tv",
             "repo": "micro-graphql",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "graphql",
+              "micro-framework"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1020,12 +1528,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛫 Yeoman generator to kick-start your microservice with `micro` and `ava`!",
+            "homepage": null,
             "id": 81139170,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-04-07T22:26:49Z",
+            "open_issues": 1,
             "owner": "vadimdemedes",
             "repo": "generator-micro-service",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "microservice",
+              "now",
+              "yeoman",
+              "yeoman-generator"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1036,12 +1554,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "micro + authentication starter",
+            "homepage": null,
             "id": 80215245,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-04-25T16:31:40Z",
+            "open_issues": 0,
             "owner": "littleStudent",
             "repo": "micro-authentication-starter",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "micro"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1052,12 +1577,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter template for Nuxt.js with Δ micro ",
+            "homepage": "https://nuxt-micro.now.sh",
             "id": 80555456,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-12-11T10:21:50Z",
+            "open_issues": 2,
             "owner": "nuxt-community",
             "repo": "micro-template",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1068,12 +1598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project to create a new instance of service using zeit/micro",
+            "homepage": null,
             "id": 792696715,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-27T10:04:03Z",
+            "open_issues": 0,
             "owner": "romuloalves",
             "repo": "create-micro",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         }
@@ -1090,12 +1625,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronous HTTP microservices",
+            "homepage": null,
             "id": 50224698,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-21T17:54:02Z",
+            "open_issues": 8,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10625
+            "stars": 10625,
+            "topics": [
+              "async",
+              "await",
+              "micro",
+              "microservice",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1106,12 +1652,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronous HTTP microservices",
+            "homepage": null,
             "id": 50224698,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-21T17:54:02Z",
+            "open_issues": 8,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10625
+            "stars": 10625,
+            "topics": [
+              "async",
+              "await",
+              "micro",
+              "microservice",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1122,12 +1679,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronous HTTP microservices",
+            "homepage": null,
             "id": 50224698,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-21T17:54:02Z",
+            "open_issues": 8,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10625
+            "stars": 10625,
+            "topics": [
+              "async",
+              "await",
+              "micro",
+              "microservice",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         }
@@ -1144,12 +1712,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static file serving and directory listing",
+            "homepage": "https://npmjs.com/package/serve",
             "id": 57182064,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-30T19:11:35Z",
+            "open_issues": 149,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9896
+            "stars": 9897,
+            "topics": [
+              "cli",
+              "command",
+              "http",
+              "node"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1160,12 +1738,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny microservice that makes adding authentication with GitHub to your application easy.",
+            "homepage": null,
             "id": 80948788,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-10-11T08:25:27Z",
+            "open_issues": 3,
             "owner": "mxstbr",
             "repo": "micro-github",
-            "stars": 721
+            "stars": 721,
+            "topics": [
+              "github",
+              "github-api",
+              "micro",
+              "microservices",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1176,12 +1765,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microservice to get the latest public GitHub repos from a user",
+            "homepage": "gh-latest-repos-sindresorhus.vercel.app",
             "id": 104388162,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-30T19:04:10Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "gh-latest-repos",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "api-server",
+              "github",
+              "graphql",
+              "javascript",
+              "microservice",
+              "nodejs",
+              "repository"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1192,12 +1794,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tiny API mocking microservice for generating fake JSON data.",
+            "homepage": "https://jaymock.now.sh",
             "id": 221584215,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-06-25T09:24:44Z",
+            "open_issues": 5,
             "owner": "meeshkan",
             "repo": "micro-jaymock",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "data",
+              "fake",
+              "fake-data",
+              "micro",
+              "microservice",
+              "test-data",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1208,12 +1823,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microservice for Imagemin",
+            "homepage": null,
             "id": 31162824,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-05-29T13:39:24Z",
+            "open_issues": 0,
             "owner": "imagemin",
             "repo": "imagemin-micro",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1224,12 +1844,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Like zeit's list, but for images. ",
+            "homepage": "https://micro-gallery.now.sh",
             "id": 68563512,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-02-04T03:40:27Z",
+            "open_issues": 0,
             "owner": "andreasmcdermott",
             "repo": "micro-gallery",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1240,12 +1865,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Obscure text with messed font.",
+            "homepage": "https://mess.now.sh/",
             "id": 98943243,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-05-31T04:49:09Z",
+            "open_issues": 0,
             "owner": "amio",
             "repo": "font-mess",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1256,12 +1886,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown rendering as a service.",
+            "homepage": "https://md.now.sh",
             "id": 98804923,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-06T20:31:28Z",
+            "open_issues": 2,
             "owner": "amio",
             "repo": "marked",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "markdown",
+              "mciroservice",
+              "now"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1272,12 +1911,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight crawler frontier implementation in TypeScript using Redis.",
+            "homepage": null,
             "id": 423119298,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-04T21:40:00Z",
+            "open_issues": 0,
             "owner": "adileo",
             "repo": "MicroFrontier",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "crawler",
+              "frontier",
+              "microservice",
+              "redis",
+              "robots-txt",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         },
@@ -1288,12 +1939,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A microservice to record analytics events to SQLite3",
+            "homepage": "https://codewithhugo.com/micro-analytics-events-sqlite/",
             "id": 207011844,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-05T19:36:01Z",
+            "open_issues": 0,
             "owner": "HugoDF",
             "repo": "micro-analytics-events",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "analytics",
+              "analytics-track",
+              "glitch",
+              "micro",
+              "microservice",
+              "nodejs",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
         }
@@ -1302,15 +1966,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:52:34.897Z",
+    "last_updated": "2026-08-29T04:33:43.658Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome things regarding zeit's micro.",
+      "homepage": null,
       "id": 69528296,
       "language": null,
+      "license": null,
       "last_commit": "2022-03-04T05:53:31Z",
+      "open_issues": 0,
       "owner": "amio",
       "repo": "awesome-micro",
-      "stars": 1069
+      "stars": 1069,
+      "topics": [
+        "awesome-list",
+        "micro",
+        "microservice"
+      ]
     },
     "original_repository_sha": "85bb7408f016ac5030c53949708f516d1b948ac7",
     "enhanced_repository": "enhansome/enhansome-micro",
