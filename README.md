@@ -56,7 +56,7 @@
 
 * [micro-sentry](https://github.com/tanmulabs/micro-sentry) ⭐ 34 | 🐛 10 | 🌐 JavaScript | 📅 2023-01-06 - Send micro errors to the Sentry service.
 * [micro-notify](https://github.com/pauldariye/micro-notify) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-08-06 - A simple [.notify](https://github.com/bugsnag/bugsnag-js) ⭐ 894 | 🐛 85 | 🌐 TypeScript | 📅 2026-08-28 wrapper to send micro errors to Bugsnag.
-* [micro-morgan](https://github.com/nickcis/micro-morgan) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-21 - [Morgan](https://github.com/expressjs/morgan) ⭐ 8,203 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-28 HTTP request logger middleware for Zeit's Micro framework.
+* [micro-morgan](https://github.com/nickcis/micro-morgan) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-21 - [Morgan](https://github.com/expressjs/morgan) ⭐ 8,202 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-28 HTTP request logger middleware for Zeit's Micro framework.
 
 ### Middlewares
 
@@ -126,7 +126,7 @@
 * [micro-graphql](https://github.com/hyperfuse/micro-graphql) ⭐ 146 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-20 - GraphQL Microservice
 * [generator-micro-service](https://github.com/vadimdemedes/generator-micro-service) ⭐ 144 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-07 - Yeoman generator to kick-start your microservice with `micro` and `ava`
 * [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) ⭐ 97 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-25 - Starter kit with built in authentication using bcrypt and jsonwebtokens
-* [nuxt-micro](https://github.com/nuxt-community/micro-template) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2020-12-11 - A [Vue-CLI](https://github.com/vuejs/vue-cli) ⭐ 29,546 | 🐛 1,070 | 🌐 JavaScript | 📅 2025-08-21 template to generate a [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,803 | 🐛 547 | 🌐 TypeScript | 📅 2026-08-29 project with micro as a backend
+* [nuxt-micro](https://github.com/nuxt-community/micro-template) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2020-12-11 - A [Vue-CLI](https://github.com/vuejs/vue-cli) ⭐ 29,546 | 🐛 1,070 | 🌐 JavaScript | 📅 2025-08-21 template to generate a [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,803 | 🐛 534 | 🌐 TypeScript | 📅 2026-08-30 project with micro as a backend
 * [create-micro](https://github.com/romuloalves/create-micro) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-27 - a generator for `micro` projects
 
 ## Articles & FAQ
@@ -153,4 +153,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
