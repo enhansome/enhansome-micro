@@ -96,7 +96,7 @@
 
 ### Utilities
 
-* [serve-handler](https://github.com/zeit/serve-handler) ⭐ 618 | 🐛 86 | 🌐 JavaScript | 📅 2026-05-04 - Static file serving and directory listing handler, used by [Serve](https://github.com/zeit/serve) ⭐ 9,901 | 🐛 148 | 🌐 TypeScript | 📅 2026-06-30
+* [serve-handler](https://github.com/zeit/serve-handler) ⭐ 618 | 🐛 86 | 🌐 JavaScript | 📅 2026-05-04 - Static file serving and directory listing handler, used by [Serve](https://github.com/zeit/serve) ⭐ 9,899 | 🐛 148 | 🌐 TypeScript | 📅 2026-06-30
 * [micro-compress](https://github.com/joakimbeng/micro-compress) ⭐ 43 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-27 - Compression for HTTP microservices.
 * [micro-cacheable](https://github.com/fmiras/micro-cacheable) ⭐ 36 | 🐛 5 | 🌐 JavaScript | 📅 2020-03-24 - A micro utility for data caching
 * [micro-match](https://github.com/nblackburn/micro-match) ⚠️ Archived -  A simple url matching utility for micro.
@@ -126,7 +126,7 @@
 * [micro-graphql](https://github.com/hyperfuse/micro-graphql) ⭐ 146 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-20 - GraphQL Microservice
 * [generator-micro-service](https://github.com/vadimdemedes/generator-micro-service) ⭐ 144 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-07 - Yeoman generator to kick-start your microservice with `micro` and `ava`
 * [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) ⭐ 97 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-25 - Starter kit with built in authentication using bcrypt and jsonwebtokens
-* [nuxt-micro](https://github.com/nuxt-community/micro-template) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2020-12-11 - A [Vue-CLI](https://github.com/vuejs/vue-cli) ⭐ 29,544 | 🐛 1,069 | 🌐 JavaScript | 📅 2025-08-21 template to generate a [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,815 | 🐛 531 | 🌐 TypeScript | 📅 2026-09-04 project with micro as a backend
+* [nuxt-micro](https://github.com/nuxt-community/micro-template) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2020-12-11 - A [Vue-CLI](https://github.com/vuejs/vue-cli) ⭐ 29,544 | 🐛 1,069 | 🌐 JavaScript | 📅 2025-08-21 template to generate a [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,817 | 🐛 534 | 🌐 TypeScript | 📅 2026-09-05 project with micro as a backend
 * [create-micro](https://github.com/romuloalves/create-micro) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-27 - a generator for `micro` projects
 
 ## Articles & FAQ
@@ -138,7 +138,7 @@
 
 ## Built with Micro
 
-* [Serve](https://github.com/vercel/serve) ⭐ 9,901 | 🐛 148 | 🌐 TypeScript | 📅 2026-06-30 - Static file serving and directory listing
+* [Serve](https://github.com/vercel/serve) ⭐ 9,899 | 🐛 148 | 🌐 TypeScript | 📅 2026-06-30 - Static file serving and directory listing
 * [micro-github](https://github.com/mxstbr/micro-github) ⭐ 721 | 🐛 3 | 🌐 JavaScript | 📅 2019-10-11 - Add authentication with GitHub to your application
 * [gh-latest-repos](https://github.com/sindresorhus/gh-latest-repos) ⭐ 151 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30 - Get the latest public GitHub repos from a user
 * [micro-jaymock](https://github.com/Meeshkan/micro-jaymock) ⚠️ Archived - Tiny API mocking microservice for generating fake JSON data
@@ -153,4 +153,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
