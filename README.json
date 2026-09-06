@@ -1634,7 +1634,7 @@
             "open_issues": 8,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10626,
+            "stars": 10627,
             "topics": [
               "async",
               "await",
@@ -1661,7 +1661,7 @@
             "open_issues": 8,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10626,
+            "stars": 10627,
             "topics": [
               "async",
               "await",
@@ -1688,7 +1688,7 @@
             "open_issues": 8,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10626,
+            "stars": 10627,
             "topics": [
               "async",
               "await",
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:47:10.853Z",
+    "last_updated": "2026-09-06T11:09:39.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
