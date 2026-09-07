@@ -1718,7 +1718,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-06-30T19:11:35Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "vercel",
             "repo": "serve",
             "stars": 9899,
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:09:39.825Z",
+    "last_updated": "2026-09-07T12:50:24.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
