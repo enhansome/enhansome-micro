@@ -455,7 +455,7 @@
                 "open_issues": 17,
                 "owner": "micro-analytics",
                 "repo": "micro-analytics-cli",
-                "stars": 733,
+                "stars": 732,
                 "topics": [
                   "analytics",
                   "analytics-server",
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:50:24.048Z",
+    "last_updated": "2026-09-08T11:31:52.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
