@@ -51,7 +51,7 @@
                 "open_issues": 51,
                 "owner": "pillarjs",
                 "repo": "router",
-                "stars": 449,
+                "stars": 448,
                 "topics": [
                   "http",
                   "javascript",
@@ -1721,7 +1721,7 @@
             "open_issues": 149,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9899,
+            "stars": 9898,
             "topics": [
               "cli",
               "command",
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:31:52.316Z",
+    "last_updated": "2026-09-09T11:37:01.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
