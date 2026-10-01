@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "pedronauck",
                 "repo": "micro-router",
-                "stars": 614,
+                "stars": 613,
                 "topics": [
                   "async",
                   "await",
@@ -455,7 +455,7 @@
                 "open_issues": 17,
                 "owner": "micro-analytics",
                 "repo": "micro-analytics-cli",
-                "stars": 732,
+                "stars": 731,
                 "topics": [
                   "analytics",
                   "analytics-server",
@@ -1397,7 +1397,7 @@
             "open_issues": 29,
             "owner": "vercel",
             "repo": "micro-dev",
-            "stars": 711,
+            "stars": 710,
             "topics": [
               "cli",
               "command-line",
@@ -1634,7 +1634,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10630,
+            "stars": 10629,
             "topics": [
               "async",
               "await",
@@ -1661,7 +1661,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10630,
+            "stars": 10629,
             "topics": [
               "async",
               "await",
@@ -1688,7 +1688,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10630,
+            "stars": 10629,
             "topics": [
               "async",
               "await",
@@ -1721,7 +1721,7 @@
             "open_issues": 152,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9904,
+            "stars": 9903,
             "topics": [
               "cli",
               "command",
@@ -1747,7 +1747,7 @@
             "open_issues": 3,
             "owner": "mxstbr",
             "repo": "micro-github",
-            "stars": 721,
+            "stars": 720,
             "topics": [
               "github",
               "github-api",
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T12:50:28.690Z",
+    "last_updated": "2026-10-01T13:37:45.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
@@ -1978,7 +1978,7 @@
       "open_issues": 0,
       "owner": "amio",
       "repo": "awesome-micro",
-      "stars": 1069,
+      "stars": 1068,
       "topics": [
         "awesome-list",
         "micro",
