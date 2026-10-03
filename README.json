@@ -288,7 +288,7 @@
                 {
                   "node_type": "item",
                   "title": "microauth-twitter",
-                  "description": null,
+                  "description": "microauth/microauth-twitter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -319,7 +319,7 @@
                 {
                   "node_type": "item",
                   "title": "microauth-facebook",
-                  "description": null,
+                  "description": "microauth/microauth-facebook",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -350,7 +350,7 @@
                 {
                   "node_type": "item",
                   "title": "microauth-google",
-                  "description": null,
+                  "description": "microauth/microauth-google",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -371,7 +371,7 @@
                 {
                   "node_type": "item",
                   "title": "microauth-github",
-                  "description": null,
+                  "description": "microauth/microauth-github",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -402,7 +402,7 @@
                 {
                   "node_type": "item",
                   "title": "microauth-slack",
-                  "description": null,
+                  "description": "microauth/microauth-slack",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1621,7 +1621,7 @@
         {
           "node_type": "item",
           "title": "Regarding no-middleware",
-          "description": null,
+          "description": "vercel/micro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1648,7 +1648,7 @@
         {
           "node_type": "item",
           "title": "Use Micro with routes",
-          "description": null,
+          "description": "vercel/micro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1675,7 +1675,7 @@
         {
           "node_type": "item",
           "title": "Difference between Micro and Koa",
-          "description": null,
+          "description": "vercel/micro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1721,7 +1721,7 @@
             "open_issues": 156,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9903,
+            "stars": 9904,
             "topics": [
               "cli",
               "command",
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:55:54.787Z",
+    "last_updated": "2026-10-03T04:55:24.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
