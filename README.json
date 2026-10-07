@@ -1137,7 +1137,7 @@
                 "open_issues": 89,
                 "owner": "vercel",
                 "repo": "serve-handler",
-                "stars": 618,
+                "stars": 617,
                 "topics": [
                   "handler",
                   "middleware",
@@ -1397,7 +1397,7 @@
             "open_issues": 29,
             "owner": "vercel",
             "repo": "micro-dev",
-            "stars": 710,
+            "stars": 709,
             "topics": [
               "cli",
               "command-line",
@@ -1631,10 +1631,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-21T17:54:02Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10628,
+            "stars": 10627,
             "topics": [
               "async",
               "await",
@@ -1658,10 +1658,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-21T17:54:02Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10628,
+            "stars": 10627,
             "topics": [
               "async",
               "await",
@@ -1685,10 +1685,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-21T17:54:02Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10628,
+            "stars": 10627,
             "topics": [
               "async",
               "await",
@@ -1718,10 +1718,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-06-30T19:11:35Z",
-            "open_issues": 152,
+            "open_issues": 153,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9907,
+            "stars": 9905,
             "topics": [
               "cli",
               "command",
@@ -1747,7 +1747,7 @@
             "open_issues": 3,
             "owner": "mxstbr",
             "repo": "micro-github",
-            "stars": 720,
+            "stars": 719,
             "topics": [
               "github",
               "github-api",
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T13:28:32.564Z",
+    "last_updated": "2026-10-07T13:40:03.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",

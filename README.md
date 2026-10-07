@@ -1,8 +1,8 @@
 # Awesome Micro with stars
 
-[<img align="right" src="https://camo.githubusercontent.com/67335088cb7b156fb779f6d60635e70780efe714/68747470733a2f2f636c6475702e636f6d2f4a446d6d4858337568462e737667" />](https://github.com/vercel/micro) ⭐ 10,628 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-21
+[<img align="right" src="https://camo.githubusercontent.com/67335088cb7b156fb779f6d60635e70780efe714/68747470733a2f2f636c6475702e636f6d2f4a446d6d4858337568462e737667" />](https://github.com/vercel/micro) ⭐ 10,627 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-21
 
-> A collection of awesome things regarding Vercel's [Micro](https://github.com/zeit/micro) ⭐ 10,628 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-21 — Asynchronous HTTP microservices.
+> A collection of awesome things regarding Vercel's [Micro](https://github.com/zeit/micro) ⭐ 10,627 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-21 — Asynchronous HTTP microservices.
 
 ## Contents
 
@@ -55,8 +55,8 @@
 ### Loggers, Errors & Reporting
 
 * [micro-sentry](https://github.com/tanmulabs/micro-sentry) ⭐ 34 | 🐛 10 | 🌐 JavaScript | 📅 2023-01-06 - Send micro errors to the Sentry service.
-* [micro-notify](https://github.com/pauldariye/micro-notify) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-08-06 - A simple [.notify](https://github.com/bugsnag/bugsnag-js) ⭐ 894 | 🐛 90 | 🌐 TypeScript | 📅 2026-10-06 wrapper to send micro errors to Bugsnag.
-* [micro-morgan](https://github.com/nickcis/micro-morgan) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-21 - [Morgan](https://github.com/expressjs/morgan) ⭐ 8,201 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-01 HTTP request logger middleware for Zeit's Micro framework.
+* [micro-notify](https://github.com/pauldariye/micro-notify) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-08-06 - A simple [.notify](https://github.com/bugsnag/bugsnag-js) ⭐ 894 | 🐛 90 | 🌐 TypeScript | 📅 2026-10-07 wrapper to send micro errors to Bugsnag.
+* [micro-morgan](https://github.com/nickcis/micro-morgan) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-21 - [Morgan](https://github.com/expressjs/morgan) ⭐ 8,200 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-01 HTTP request logger middleware for Zeit's Micro framework.
 
 ### Middlewares
 
@@ -75,7 +75,7 @@
 * [micro-boom](https://github.com/onbjerg/micro-boom) ⚠️ Archived - Wraps errors in micro with Boom.
 * [micro-upload](https://github.com/julianduque/micro-upload) ⭐ 34 | 🐛 3 | 🌐 JavaScript | 📅 2020-08-05 - A express-fileupload wrapper for Zeit's micro.
 * [micro-superstruct](https://github.com/brandon93s/micro-superstruct) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2020-09-07 - Superstruct wrapper for Micro enabling validation of request body and query parameters.
-* [micro-notify](https://github.com/pauldariye/micro-notify) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-08-06 - A simple [.notify](https://github.com/bugsnag/bugsnag-js) ⭐ 894 | 🐛 90 | 🌐 TypeScript | 📅 2026-10-06 wrapper to send micro errors to Bugsnag.
+* [micro-notify](https://github.com/pauldariye/micro-notify) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-08-06 - A simple [.notify](https://github.com/bugsnag/bugsnag-js) ⭐ 894 | 🐛 90 | 🌐 TypeScript | 📅 2026-10-07 wrapper to send micro errors to Bugsnag.
 
 ### HTTP Requests
 
@@ -96,7 +96,7 @@
 
 ### Utilities
 
-* [serve-handler](https://github.com/zeit/serve-handler) ⭐ 618 | 🐛 89 | 🌐 JavaScript | 📅 2026-05-04 - Static file serving and directory listing handler, used by [Serve](https://github.com/zeit/serve) ⭐ 9,907 | 🐛 152 | 🌐 TypeScript | 📅 2026-06-30
+* [serve-handler](https://github.com/zeit/serve-handler) ⭐ 617 | 🐛 89 | 🌐 JavaScript | 📅 2026-05-04 - Static file serving and directory listing handler, used by [Serve](https://github.com/zeit/serve) ⭐ 9,905 | 🐛 153 | 🌐 TypeScript | 📅 2026-06-30
 * [micro-compress](https://github.com/joakimbeng/micro-compress) ⭐ 43 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-27 - Compression for HTTP microservices.
 * [micro-cacheable](https://github.com/fmiras/micro-cacheable) ⭐ 36 | 🐛 5 | 🌐 JavaScript | 📅 2020-03-24 - A micro utility for data caching
 * [micro-match](https://github.com/nblackburn/micro-match) ⚠️ Archived -  A simple url matching utility for micro.
@@ -114,7 +114,7 @@
 
 ## Development Tools
 
-* [micro-dev](https://github.com/zeit/micro-dev) ⭐ 710 | 🐛 29 | 🌐 JavaScript | 📅 2024-06-08 - The development environment for `micro`.
+* [micro-dev](https://github.com/zeit/micro-dev) ⭐ 709 | 🐛 29 | 🌐 JavaScript | 📅 2024-06-08 - The development environment for `micro`.
 * [micro-visualize](https://github.com/onbjerg/micro-visualize) ⚠️ Archived - Development tool that visualizes requests and responses for services written with Micro.
 * [dev-gateway](https://github.com/dimapaloskin/dev-gateway) ⭐ 32 | 🐛 14 | 🌐 JavaScript | 📅 2020-06-03 - Local development gateway with [path aliases](https://zeit.co/docs/features/path-aliases) support.
 * [serve-micro-cluster](https://github.com/tylersnyder/serve-micro-cluster) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-13 - It's like Path Alias on now, but for local development.
@@ -126,20 +126,20 @@
 * [micro-graphql](https://github.com/hyperfuse/micro-graphql) ⭐ 146 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-20 - GraphQL Microservice
 * [generator-micro-service](https://github.com/vadimdemedes/generator-micro-service) ⭐ 144 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-07 - Yeoman generator to kick-start your microservice with `micro` and `ava`
 * [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) ⭐ 97 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-25 - Starter kit with built in authentication using bcrypt and jsonwebtokens
-* [nuxt-micro](https://github.com/nuxt-community/micro-template) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2020-12-11 - A [Vue-CLI](https://github.com/vuejs/vue-cli) ⭐ 29,524 | 🐛 1,069 | 🌐 JavaScript | 📅 2025-08-21 template to generate a [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,921 | 🐛 475 | 🌐 TypeScript | 📅 2026-10-06 project with micro as a backend
+* [nuxt-micro](https://github.com/nuxt-community/micro-template) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2020-12-11 - A [Vue-CLI](https://github.com/vuejs/vue-cli) ⭐ 29,520 | 🐛 1,069 | 🌐 JavaScript | 📅 2025-08-21 template to generate a [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,924 | 🐛 485 | 🌐 TypeScript | 📅 2026-10-07 project with micro as a backend
 * [create-micro](https://github.com/romuloalves/create-micro) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-27 - a generator for `micro` projects
 
 ## Articles & FAQ
 
-* [Regarding no-middleware](https://github.com/vercel/micro/issues/8) ⭐ 10,628 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-21
-* [Use Micro with routes](https://github.com/vercel/micro/issues/16#issuecomment-193518395) ⭐ 10,628 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-21
-* [Difference between Micro and Koa](https://github.com/vercel/micro/issues/309#issuecomment-332503863) ⭐ 10,628 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-21
+* [Regarding no-middleware](https://github.com/vercel/micro/issues/8) ⭐ 10,627 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-21
+* [Use Micro with routes](https://github.com/vercel/micro/issues/16#issuecomment-193518395) ⭐ 10,627 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-21
+* [Difference between Micro and Koa](https://github.com/vercel/micro/issues/309#issuecomment-332503863) ⭐ 10,627 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-21
 * [Minimum Viable Async with Node 6](https://gist.github.com/rauchg/8199de60db48026a6670620a1c33b700)
 
 ## Built with Micro
 
-* [Serve](https://github.com/vercel/serve) ⭐ 9,907 | 🐛 152 | 🌐 TypeScript | 📅 2026-06-30 - Static file serving and directory listing
-* [micro-github](https://github.com/mxstbr/micro-github) ⭐ 720 | 🐛 3 | 🌐 JavaScript | 📅 2019-10-11 - Add authentication with GitHub to your application
+* [Serve](https://github.com/vercel/serve) ⭐ 9,905 | 🐛 153 | 🌐 TypeScript | 📅 2026-06-30 - Static file serving and directory listing
+* [micro-github](https://github.com/mxstbr/micro-github) ⭐ 719 | 🐛 3 | 🌐 JavaScript | 📅 2019-10-11 - Add authentication with GitHub to your application
 * [gh-latest-repos](https://github.com/sindresorhus/gh-latest-repos) ⭐ 151 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30 - Get the latest public GitHub repos from a user
 * [micro-jaymock](https://github.com/Meeshkan/micro-jaymock) ⚠️ Archived - Tiny API mocking microservice for generating fake JSON data
 * [imagemin-micro](https://github.com/imagemin/imagemin-micro) ⭐ 60 | 🐛 0 | 🌐 JavaScript | 📅 2021-05-29 - Minify images
@@ -153,4 +153,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
