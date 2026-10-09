@@ -47,11 +47,11 @@
                 "id": 23059630,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-06-02T09:21:56Z",
-                "open_issues": 51,
+                "last_commit": "2026-10-09T10:14:48Z",
+                "open_issues": 50,
                 "owner": "pillarjs",
                 "repo": "router",
-                "stars": 448,
+                "stars": 447,
                 "topics": [
                   "http",
                   "javascript",
@@ -1634,7 +1634,7 @@
             "open_issues": 11,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10627,
+            "stars": 10626,
             "topics": [
               "async",
               "await",
@@ -1661,7 +1661,7 @@
             "open_issues": 11,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10627,
+            "stars": 10626,
             "topics": [
               "async",
               "await",
@@ -1688,7 +1688,7 @@
             "open_issues": 11,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10627,
+            "stars": 10626,
             "topics": [
               "async",
               "await",
@@ -1721,7 +1721,7 @@
             "open_issues": 153,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9904,
+            "stars": 9903,
             "topics": [
               "cli",
               "command",
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T13:48:04.870Z",
+    "last_updated": "2026-10-09T13:32:38.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
