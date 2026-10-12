@@ -1450,7 +1450,7 @@
             "open_issues": 14,
             "owner": "dimapaloskin",
             "repo": "dev-gateway",
-            "stars": 32,
+            "stars": 31,
             "topics": [
               "cluster",
               "gateway",
@@ -1721,7 +1721,7 @@
             "open_issues": 153,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9903,
+            "stars": 9904,
             "topics": [
               "cli",
               "command",
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T13:10:51.400Z",
+    "last_updated": "2026-10-12T15:49:19.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
