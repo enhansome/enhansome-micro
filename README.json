@@ -1576,14 +1576,14 @@
           "description": "A Vue-CLI template to generate a Nuxt.js project with micro as a backend",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Starter template for Nuxt.js with Δ micro ",
             "homepage": "https://nuxt-micro.now.sh",
             "id": 80555456,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2020-12-11T10:21:50Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-13T12:09:26Z",
+            "open_issues": 1,
             "owner": "nuxt-community",
             "repo": "micro-template",
             "stars": 73,
@@ -1803,7 +1803,7 @@
             "open_issues": 5,
             "owner": "meeshkan",
             "repo": "micro-jaymock",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "data",
               "fake",
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:49:19.836Z",
+    "last_updated": "2026-10-13T14:26:25.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
