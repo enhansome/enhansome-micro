@@ -48,7 +48,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-17T22:57:05Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "pillarjs",
                 "repo": "router",
                 "stars": 448,
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T11:54:24.626Z",
+    "last_updated": "2026-10-21T12:06:43.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
