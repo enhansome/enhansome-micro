@@ -47,8 +47,8 @@
                 "id": 23059630,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T22:57:05Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-22T13:52:56Z",
+                "open_issues": 39,
                 "owner": "pillarjs",
                 "repo": "router",
                 "stars": 448,
@@ -123,7 +123,7 @@
                 "open_issues": 0,
                 "owner": "dotcypress",
                 "repo": "micro-route",
-                "stars": 94,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:52:34.897Z"
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T12:11:19.907Z",
+    "last_updated": "2026-10-23T11:53:02.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
