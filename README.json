@@ -455,7 +455,7 @@
                 "open_issues": 17,
                 "owner": "micro-analytics",
                 "repo": "micro-analytics-cli",
-                "stars": 732,
+                "stars": 731,
                 "topics": [
                   "analytics",
                   "analytics-server",
@@ -1634,7 +1634,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10624,
+            "stars": 10627,
             "topics": [
               "async",
               "await",
@@ -1661,7 +1661,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10624,
+            "stars": 10627,
             "topics": [
               "async",
               "await",
@@ -1688,7 +1688,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10624,
+            "stars": 10627,
             "topics": [
               "async",
               "await",
@@ -1966,7 +1966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T13:26:16.342Z",
+    "last_updated": "2026-10-30T13:15:56.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
