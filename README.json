@@ -47,8 +47,8 @@
                 "id": 23059630,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T11:29:31Z",
-                "open_issues": 39,
+                "last_commit": "2026-11-01T23:03:20Z",
+                "open_issues": 40,
                 "owner": "pillarjs",
                 "repo": "router",
                 "stars": 448,
@@ -569,27 +569,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "micro-cors",
-              "description": "Simple CORS middleware.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Simple CORS middleware for Zeit's Micro",
-                "homepage": null,
-                "id": 78932504,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2022-12-07T08:59:12Z",
-                "open_issues": 13,
-                "owner": "possibilities",
-                "repo": "micro-cors",
-                "stars": 197,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T18:52:34.897Z"
-            },
             {
               "node_type": "item",
               "title": "micro-ratelimit",
@@ -1134,7 +1113,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-05-04T21:25:46Z",
-                "open_issues": 89,
+                "open_issues": 91,
                 "owner": "vercel",
                 "repo": "serve-handler",
                 "stars": 617,
@@ -1634,7 +1613,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10628,
+            "stars": 10629,
             "topics": [
               "async",
               "await",
@@ -1661,7 +1640,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10628,
+            "stars": 10629,
             "topics": [
               "async",
               "await",
@@ -1688,7 +1667,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10628,
+            "stars": 10629,
             "topics": [
               "async",
               "await",
@@ -1721,7 +1700,7 @@
             "open_issues": 154,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9908,
+            "stars": 9909,
             "topics": [
               "cli",
               "command",
@@ -1966,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T13:39:50.217Z",
+    "last_updated": "2026-11-02T16:22:36.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
