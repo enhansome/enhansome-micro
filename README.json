@@ -1609,7 +1609,7 @@
             "id": 50224698,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-05-21T17:54:02Z",
+            "last_commit": "2026-11-04T18:42:35Z",
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
@@ -1636,7 +1636,7 @@
             "id": 50224698,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-05-21T17:54:02Z",
+            "last_commit": "2026-11-04T18:42:35Z",
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
@@ -1663,7 +1663,7 @@
             "id": 50224698,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-05-21T17:54:02Z",
+            "last_commit": "2026-11-04T18:42:35Z",
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
@@ -1700,7 +1700,7 @@
             "open_issues": 154,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9910,
+            "stars": 9911,
             "topics": [
               "cli",
               "command",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T14:44:44.094Z",
+    "last_updated": "2026-11-05T14:49:40.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
