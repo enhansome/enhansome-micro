@@ -455,7 +455,7 @@
                 "open_issues": 17,
                 "owner": "micro-analytics",
                 "repo": "micro-analytics-cli",
-                "stars": 731,
+                "stars": 730,
                 "topics": [
                   "analytics",
                   "analytics-server",
@@ -740,7 +740,7 @@
                 "open_issues": 11,
                 "owner": "kandros",
                 "repo": "micro-jwt-auth",
-                "stars": 94,
+                "stars": 93,
                 "topics": [
                   "authorization",
                   "jwt",
@@ -1613,7 +1613,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10630,
+            "stars": 10631,
             "topics": [
               "async",
               "await",
@@ -1640,7 +1640,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10630,
+            "stars": 10631,
             "topics": [
               "async",
               "await",
@@ -1667,7 +1667,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10630,
+            "stars": 10631,
             "topics": [
               "async",
               "await",
@@ -1700,7 +1700,7 @@
             "open_issues": 154,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9913,
+            "stars": 9915,
             "topics": [
               "cli",
               "command",
@@ -1811,7 +1811,7 @@
             "open_issues": 0,
             "owner": "imagemin",
             "repo": "imagemin-micro",
-            "stars": 60,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:34.897Z"
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:05:35.038Z",
+    "last_updated": "2026-11-11T14:36:47.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
@@ -1957,7 +1957,7 @@
       "open_issues": 0,
       "owner": "amio",
       "repo": "awesome-micro",
-      "stars": 1067,
+      "stars": 1066,
       "topics": [
         "awesome-list",
         "micro",
