@@ -47,11 +47,11 @@
                 "id": 23059630,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T23:03:20Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-13T12:09:10Z",
+                "open_issues": 37,
                 "owner": "pillarjs",
                 "repo": "router",
-                "stars": 449,
+                "stars": 450,
                 "topics": [
                   "http",
                   "javascript",
@@ -1613,7 +1613,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10630,
+            "stars": 10632,
             "topics": [
               "async",
               "await",
@@ -1640,7 +1640,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10630,
+            "stars": 10632,
             "topics": [
               "async",
               "await",
@@ -1667,7 +1667,7 @@
             "open_issues": 10,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10630,
+            "stars": 10632,
             "topics": [
               "async",
               "await",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:28:15.714Z",
+    "last_updated": "2026-11-13T14:45:41.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
@@ -1957,7 +1957,7 @@
       "open_issues": 0,
       "owner": "amio",
       "repo": "awesome-micro",
-      "stars": 1066,
+      "stars": 1065,
       "topics": [
         "awesome-list",
         "micro",
