@@ -1700,7 +1700,7 @@
             "open_issues": 153,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9919,
+            "stars": 9918,
             "topics": [
               "cli",
               "command",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T16:18:54.413Z",
+    "last_updated": "2026-11-18T15:52:04.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
