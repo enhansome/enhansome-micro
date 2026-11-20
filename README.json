@@ -47,11 +47,11 @@
                 "id": 23059630,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T08:26:49Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-19T18:21:55Z",
+                "open_issues": 36,
                 "owner": "pillarjs",
                 "repo": "router",
-                "stars": 450,
+                "stars": 449,
                 "topics": [
                   "http",
                   "javascript",
@@ -455,7 +455,7 @@
                 "open_issues": 17,
                 "owner": "micro-analytics",
                 "repo": "micro-analytics-cli",
-                "stars": 731,
+                "stars": 730,
                 "topics": [
                   "analytics",
                   "analytics-server",
@@ -1609,7 +1609,7 @@
             "id": 50224698,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T08:30:21Z",
+            "last_commit": "2026-11-20T08:04:09Z",
             "open_issues": 14,
             "owner": "vercel",
             "repo": "micro",
@@ -1636,7 +1636,7 @@
             "id": 50224698,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T08:30:21Z",
+            "last_commit": "2026-11-20T08:04:09Z",
             "open_issues": 14,
             "owner": "vercel",
             "repo": "micro",
@@ -1663,7 +1663,7 @@
             "id": 50224698,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T08:30:21Z",
+            "last_commit": "2026-11-20T08:04:09Z",
             "open_issues": 14,
             "owner": "vercel",
             "repo": "micro",
@@ -1700,7 +1700,7 @@
             "open_issues": 153,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9918,
+            "stars": 9917,
             "topics": [
               "cli",
               "command",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:55:51.631Z",
+    "last_updated": "2026-11-20T15:39:24.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
