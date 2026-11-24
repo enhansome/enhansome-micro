@@ -1376,7 +1376,7 @@
             "open_issues": 29,
             "owner": "vercel",
             "repo": "micro-dev",
-            "stars": 710,
+            "stars": 709,
             "topics": [
               "cli",
               "command-line",
@@ -1613,7 +1613,7 @@
             "open_issues": 14,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10634,
+            "stars": 10633,
             "topics": [
               "async",
               "await",
@@ -1640,7 +1640,7 @@
             "open_issues": 14,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10634,
+            "stars": 10633,
             "topics": [
               "async",
               "await",
@@ -1667,7 +1667,7 @@
             "open_issues": 14,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10634,
+            "stars": 10633,
             "topics": [
               "async",
               "await",
@@ -1700,7 +1700,7 @@
             "open_issues": 154,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9917,
+            "stars": 9916,
             "topics": [
               "cli",
               "command",
@@ -1726,7 +1726,7 @@
             "open_issues": 3,
             "owner": "mxstbr",
             "repo": "micro-github",
-            "stars": 719,
+            "stars": 718,
             "topics": [
               "github",
               "github-api",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T18:33:04.832Z",
+    "last_updated": "2026-11-24T18:01:21.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
