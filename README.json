@@ -1113,7 +1113,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-06T16:45:46Z",
-                "open_issues": 93,
+                "open_issues": 94,
                 "owner": "vercel",
                 "repo": "serve-handler",
                 "stars": 618,
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T18:01:21.334Z",
+    "last_updated": "2026-11-25T17:28:27.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
