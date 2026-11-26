@@ -250,7 +250,7 @@
                 "id": 216270504,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-22T19:46:06Z",
+                "last_commit": "2026-11-26T01:49:28Z",
                 "open_issues": 0,
                 "owner": "Bessonov",
                 "repo": "node-http-router",
@@ -1113,7 +1113,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-06T16:45:46Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "vercel",
                 "repo": "serve-handler",
                 "stars": 618,
@@ -1700,7 +1700,7 @@
             "open_issues": 154,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9916,
+            "stars": 9917,
             "topics": [
               "cli",
               "command",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:28:27.298Z",
+    "last_updated": "2026-11-26T17:09:29.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
