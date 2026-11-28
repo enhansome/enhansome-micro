@@ -51,7 +51,7 @@
                 "open_issues": 36,
                 "owner": "pillarjs",
                 "repo": "router",
-                "stars": 449,
+                "stars": 450,
                 "topics": [
                   "http",
                   "javascript",
@@ -1613,7 +1613,7 @@
             "open_issues": 14,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10634,
+            "stars": 10635,
             "topics": [
               "async",
               "await",
@@ -1640,7 +1640,7 @@
             "open_issues": 14,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10634,
+            "stars": 10635,
             "topics": [
               "async",
               "await",
@@ -1667,7 +1667,7 @@
             "open_issues": 14,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10634,
+            "stars": 10635,
             "topics": [
               "async",
               "await",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T16:52:20.097Z",
+    "last_updated": "2026-11-28T15:43:39.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding zeit's micro.",
